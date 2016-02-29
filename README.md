@@ -7,6 +7,23 @@ You can download the data set *.zip* file directly [here](https://d396qusza40orc
 ##About This Repo:
 The files in this repo include this **README.md** file, **CodeBook.md** which will provide details on the variable names in the **run_analysis.R** file which is the script file you will run to achieve the goals listed below.
 
+Please make sure the necessary files are in your directory:
+```
+- 'features_info.txt': Shows information about the variables used on the feature vector.
+
+- 'features.txt': List of all features.
+
+- 'activity_labels.txt': Links the class labels with their activity name.
+
+- 'train/X_train.txt': Training set.
+
+- 'train/y_train.txt': Training labels.
+
+- 'test/X_test.txt': Test set.
+
+- 'test/y_test.txt': Test labels.
+```
+
 ##Goals for **run_analysis.R**
 
 When running the R code, the script will achieve:
