@@ -127,4 +127,4 @@ The complete list of variables of each feature vector is available in 'features.
 ```
 #Transformations:
 
-From the original collection of *.txt* files, the script creates tidy data frames, merges the test and train data sets and selects only variables including mean or standard deviation, then outputs a tidy *.csv* file to the working directory that includes the means for the different subjects by activity type for each variable in the merged data set.
+From the original collection of *.txt* files, the script creates tidy data frames, merges the test and train data sets and selects only variables including mean or standard deviation, then outputs a tidy *.txt* file to the working directory that includes the means for the different subjects by activity type for each variable in the merged data set.
